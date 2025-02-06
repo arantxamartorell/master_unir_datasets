@@ -1327,8 +1327,8 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 6658842;0;1;l'Antiga Esquerra de l'Eixample;Private room in condo;Private room;1;1.5;1;1;19.00;29;300;100;6;0;4.46;4.59;4.25;4.64;4.7;4.9;4.58;0
 6659629;1;1;la Vila Olímpica del Poblenou;Entire rental unit;Entire home/apt;6;2;4;6;273.00;3;1125;231;29;3;4.88;4.92;4.84;4.92;4.95;4.89;4.73;0
 6666031;0;1;el Parc i la Llacuna del Poblenou;Entire rental unit;Entire home/apt;16;3;6;9;900.00;3;1125;17;4;1;4.29;4.35;4.29;4.71;4.71;4.65;4.12;0
-6666212;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;16;4;7;10;2.000.00;3;1125;1;0;0;4;5;4;5;5;5;4;0
-6666350;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;16;4.5;6;10;2.500.00;3;1125;4;0;0;3.75;4;4;4;3.75;4;3.5;0
+6666212;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;16;4;7;10;2000.00;3;1125;1;0;0;4;5;4;5;5;5;4;0
+6666350;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;16;4.5;6;10;2500.00;3;1125;4;0;0;3.75;4;4;4;3.75;4;3.5;0
 6667516;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;12;2;4;8;650.00;3;1125;6;1;0;3.83;3.83;3.67;4.6;4;4.4;3.4;0
 6669821;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;16;5;8;16;1500.00;3;1125;2;0;0;4.5;5;5;5;4.5;5;4.5;0
 6670509;0;1;el Parc i la Llacuna del Poblenou;Entire rental unit;Entire home/apt;16;5;9;18;1200.00;3;1125;1;0;0;5;3;5;5;5;5;5;0
@@ -1469,7 +1469,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 8414793;0;1;el Poblenou;Entire serviced apartment;Entire home/apt;4;1;1;3;111.00;3.7;28;200;40;6;4.75;4.69;4.78;4.77;4.85;4.81;4.5;0
 8420515;0;1;Sants - Badal;Entire loft;Entire home/apt;2;1;1;1;54.00;1;1125;427;49;3;4.55;4.71;4.71;4.67;4.76;4.15;4.36;0
 8433094;1;1;Sant Pere, Santa Caterina i la Ribera;Entire rental unit;Entire home/apt;5;1;1;3;73.00;3;1125;662;66;4;4.69;4.72;4.56;4.92;4.95;4.95;4.62;1
-8099797;1;1;Sant Antoni;Entire serviced apartment;Entire home/apt;6;3;3;5;3.900.00;3;30;183;23;0;4.8;4.81;4.83;4.93;4.93;4.85;4.79;0
+8099797;1;1;Sant Antoni;Entire serviced apartment;Entire home/apt;6;3;3;5;3900.00;3;30;183;23;0;4.8;4.81;4.83;4.93;4.93;4.85;4.79;0
 8119434;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire rental unit;Entire home/apt;4;1;2;3;95.00;31;1125;14;2;0;5;5;5;5;5;5;4.86;0
 8122193;1;1;el Barri Gòtic;Private room in condo;Private room;1;1;1;1;29.00;31;93;182;5;0;4.92;4.95;4.97;4.96;4.96;4.98;4.91;0
 8126804;0;1;les Tres Torres;Entire condo;Entire home/apt;6;2;3;6;265.00;4;1125;85;14;0;4.62;4.66;4.51;4.76;4.85;4.59;4.51;0
@@ -1962,7 +1962,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 14308198;1;1;el Raval;Entire loft;Entire home/apt;2;1.5;1;1;137.00;32;1125;30;5;0;4.97;4.97;5;4.97;5;4.93;4.86;0
 14332869;0;1;la Sagrada Família;Entire rental unit;Entire home/apt;6;1;4;4;101.00;4.2;1124;223;41;2;4.66;4.73;4.73;4.87;4.8;4.9;4.5;0
 14164414;1;1;les Corts;Entire rental unit;Entire home/apt;2;1.5;1;1;115.00;3;730;297;53;3;4.91;4.94;4.88;4.97;4.95;4.83;4.76;0
-14171072;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;16;6;9;10;2.142.00;3;1125;45;3;0;4.8;4.6;4.82;4.93;4.93;4.91;4.67;0
+14171072;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;16;6;9;10;2142.00;3;1125;45;3;0;4.8;4.6;4.82;4.93;4.93;4.91;4.67;0
 14176427;0;1;el Poblenou;Entire rental unit;Entire home/apt;3;1.5;0;2;55.00;59.7;1125;11;1;0;4.36;4.73;4.82;4.91;4.73;4.55;4.18;0
 14178375;0;1;el Barri Gòtic;Entire rental unit;Entire home/apt;3;1;1;1;134.00;3.7;365;264;23;1;4.56;4.72;4.66;4.8;4.88;4.87;4.47;1
 14346513;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;5;1;1;1;80.00;1;1125;502;87;5;4.65;4.8;4.68;4.81;4.58;4.9;4.56;1
@@ -2981,7 +2981,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 24138826;1;1;Sant Antoni;Entire condo;Entire home/apt;4;2;2;3;115.00;31;200;22;6;0;4.95;5;5;5;5;4.92;4.92;0
 24142949;1;1;el Barri Gòtic;Entire rental unit;Entire home/apt;2;1;1;2;47.00;32;200;13;3;0;4.85;5;4.77;5;5;4.69;4.62;0
 24156044;1;1;la Vila de Gràcia;Private room in rental unit;Private room;1;1.5;1;1;52.00;1;1125;159;74;4;4.92;4.93;4.9;4.94;4.97;4.94;4.86;0
-24167970;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;16;6;9;10;2.142.00;3;1125;17;3;1;4.94;4.88;5;5;5;5;4.53;0
+24167970;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;16;6;9;10;2142.00;3;1125;17;3;1;4.94;4.88;5;5;5;5;4.53;0
 24171575;0;0;el Poble Sec;Entire rental unit;Entire home/apt;4;1;2;3;90.00;3;1125;42;9;0;4.55;4.64;4.83;4.93;4.45;4.64;4.48;0
 23987370;0;1;el Baix Guinardó;Entire rental unit;Entire home/apt;4;1;2;3;52.00;32;1125;4;0;0;3.75;4;4;4.5;4.75;4.5;3.75;0
 23990630;1;1;el Barri Gòtic;Entire loft;Entire home/apt;3;1;0;1;122.00;1.1;1125;427;53;4;4.91;4.93;4.96;4.91;4.93;4.92;4.82;1
@@ -3657,7 +3657,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 31913452;0;1;el Camp d'en Grassot i Gràcia Nova;Entire rental unit;Entire home/apt;2;1;1;1;89.00;1.3;1125;21;18;1;4.62;4.57;4.38;4.67;4.71;4.86;4.33;1
 31929256;1;1;el Raval;Entire rental unit;Entire home/apt;4;2;2;2;85.00;31;1125;26;2;0;4.85;4.85;4.85;4.96;4.96;4.77;4.69;0
 31938846;0;1;Diagonal Mar i el Front Marítim del Poblenou;Entire serviced apartment;Entire home/apt;6;2;2;3;174.00;1;90;63;34;0;4.75;4.73;4.46;4.89;4.89;4.71;4.46;1
-31941328;0;1;la Vila Olímpica del Poblenou;Entire rental unit;Entire home/apt;12;4;6;10;2.000.00;5;1125;1;0;0;4;4;4;4;5;5;4;0
+31941328;0;1;la Vila Olímpica del Poblenou;Entire rental unit;Entire home/apt;12;4;6;10;2000.00;5;1125;1;0;0;4;4;4;4;5;5;4;0
 31977850;0;0;la Dreta de l'Eixample;Shared room in hostel;Shared room;1;1;1;1;17.00;1.1;7;1057;218;43;4.4;4.6;4.44;4.68;4.54;4.86;4.48;1
 31857600;0;1;l'Antiga Esquerra de l'Eixample;Entire rental unit;Entire home/apt;4;1;2;1;163.00;1;1125;137;29;1;4.74;4.72;4.76;4.75;4.8;4.89;4.39;0
 31872068;0;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;4;1;2;3;114.00;4.9;1125;196;29;3;4.77;4.76;4.75;4.76;4.84;4.94;4.6;1
@@ -3685,7 +3685,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 32053840;0;1;la Sagrada Família;Entire rental unit;Entire home/apt;6;1;3;5;85.00;27;1125;26;8;0;3.77;4;4.23;4.15;4.12;4.54;3.96;1
 32057142;0;1;el Poble Sec;Private room in hostel;Private room;2;5.5;1;2;80.00;1;79.9;2;1;0;4.5;4;4.5;4.5;4;4;4.5;1
 32057454;0;1;la Barceloneta;Entire rental unit;Entire home/apt;2;1;1;1;53.00;32;1125;11;3;0;4.36;4.55;4.09;4.91;4.45;4.73;3.82;1
-32088715;0;1;el Barri Gòtic;Boat;Entire home/apt;7;4.5;4;5;2.000.00;2;1125;7;1;0;5;4.71;4.86;5;5;4.86;4.71;0
+32088715;0;1;el Barri Gòtic;Boat;Entire home/apt;7;4.5;4;5;2000.00;2;1125;7;1;0;5;4.71;4.86;5;5;4.86;4.71;0
 32096177;1;1;l'Antiga Esquerra de l'Eixample;Entire loft;Entire home/apt;2;1;1;1;55.00;31;1125;28;8;0;4.93;4.96;4.71;5;4.96;5;4.68;0
 32096193;0;1;el Barri Gòtic;Entire place;Entire home/apt;2;2.5;0;0;100.00;31;1125;43;15;0;4.86;4.84;4.63;5;4.91;5;4.84;1
 32514581;0;1;el Raval;Entire rental unit;Entire home/apt;4;1;2;3;200.00;4.6;1125;28;19;0;4.79;4.86;4.68;4.79;4.86;4.89;4.68;0
@@ -5305,7 +5305,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 47709894;0;1;el Barri Gòtic;Entire rental unit;Entire home/apt;4;1;2;4;105.00;3.9;1125;312;75;5;4.4;4.44;4.64;4.64;4.69;4.85;4.4;1
 46730224;0;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;8;2;4;5;240.00;1.5;616.6;10;1;0;3.7;3.6;3.8;4.4;4.4;4.8;3.7;0
 46730233;0;1;la Sagrada Família;Entire rental unit;Entire home/apt;4;1;1;1;46.00;3.1;73.4;120;50;4;4.34;4.44;4.4;4.35;4.41;4.62;4.08;1
-46731061;0;1;Hostafrancs;Entire rental unit;Entire home/apt;5;1;3;5;3.528.00;1;1125;1;0;0;5;5;5;4;4;5;5;1
+46731061;0;1;Hostafrancs;Entire rental unit;Entire home/apt;5;1;3;5;3528.00;1;1125;1;0;0;5;5;5;4;4;5;5;1
 46740231;0;1;el Poble Sec;Entire rental unit;Entire home/apt;3;1;2;2;70.00;32;1125;5;1;0;4.6;4.8;5;5;3.8;4.8;4.4;0
 46760295;0;1;el Camp d'en Grassot i Gràcia Nova;Private room in rental unit;Private room;1;1.5;1;1;45.00;30;1125;2;0;0;4.5;4.5;3;5;5;5;4.5;0
 46765615;1;1;el Camp d'en Grassot i Gràcia Nova;Entire serviced apartment;Entire home/apt;4;1;2;3;168.00;2.8;1125;6;0;0;4.17;4.5;4.67;3.83;4.33;4.5;4.33;0
@@ -6907,7 +6907,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 6,49753050429299E+017;0;1;Sants - Badal;Entire loft;Entire home/apt;2;1;1;1;38.00;29.4;1125;5;2;0;5;4.6;4.4;5;5;5;4.4;1
 6,57114901851073E+017;0;1;Hostafrancs;Entire rental unit;Entire home/apt;5;2;4;4;100.00;32;1125;3;0;0;5;5;5;5;5;5;5;1
 6,57114933165837E+017;0;1;l'Antiga Esquerra de l'Eixample;Entire rental unit;Entire home/apt;5;2;4;4;90.00;31.5;365;1;0;0;5;5;5;5;5;5;5;0
-6,58471450009413E+017;0;1;el Clot;Entire rental unit;Entire home/apt;3;1;2;0;5.000.00;1;1125;2;0;0;4.5;4.5;4.5;4.5;4;5;4.5;1
+6,58471450009413E+017;0;1;el Clot;Entire rental unit;Entire home/apt;3;1;2;0;5000.00;1;1125;2;0;0;4.5;4.5;4.5;4.5;4;5;4.5;1
 6,49754403581024E+017;0;1;Sant Gervasi - Galvany;Entire rental unit;Entire home/apt;3;2;2;2;140.00;36.4;1125;1;0;0;5;5;5;5;5;5;5;1
 6,49754728056014E+017;0;1;Sant Gervasi - Galvany;Entire rental unit;Entire home/apt;3;2;2;2;140.00;35.7;1125;1;0;0;4;5;5;4;5;5;5;1
 6,49791152644727E+017;0;1;la Font de la Guatlla;Entire rental unit;Entire home/apt;4;2;2;3;148.00;113.1;1125;5;3;1;4.8;4.6;4.4;5;5;5;4.4;0
@@ -8660,7 +8660,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 9,23657765607147E+017;0;1;el Poblenou;Entire rental unit;Entire home/apt;4;1;3;3;65.00;3.1;66.8;42;30;3;4.29;4.36;4.48;4.36;4.57;4.52;4.17;1
 9,23681098354044E+017;0;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;4;1;2;3;171.00;2.5;365;6;5;0;4.5;4.5;4.5;4.5;5;4.83;4;1
 9,17836935353463E+017;1;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;4;2;2;2;90.00;31;334;3;2;0;4.67;5;4;5;4.67;5;4.33;0
-9,1792880487917E+017;0;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;4;0;3;3;4.500.00;32;365;1;0;0;5;5;5;5;5;5;5;1
+9,1792880487917E+017;0;1;la Dreta de l'Eixample;Entire rental unit;Entire home/apt;4;0;3;3;4500.00;32;365;1;0;0;5;5;5;5;5;5;5;1
 9,18586523190825E+017;0;1;el Baix Guinardó;Entire rental unit;Entire home/apt;6;2;4;5;133.00;2.5;365;3;0;0;3.33;3.67;4.67;3;2.67;4;3;1
 9,18600386247154E+017;0;1;la Dreta de l'Eixample;Room in hotel;Private room;2;1;1;1;137.00;2;999;1;1;0;5;5;5;5;5;5;5;1
 9,2373009394822E+017;1;1;l'Antiga Esquerra de l'Eixample;Entire rental unit;Entire home/apt;2;1;1;1;118.00;30;730;14;10;0;5;5;5;5;5;5;4.86;0
@@ -10263,7 +10263,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 1,1237752179666E+018;0;1;Sant Pere, Santa Caterina i la Ribera;Entire home;Entire home/apt;2;1;1;1;61.00;2;365;11;11;3;4.45;4.64;4.55;4.45;4.55;4.55;4.45;1
 1,12392004962205E+018;0;1;Sant Pere, Santa Caterina i la Ribera;Private room in rental unit;Private room;2;1;1;1;45.00;3;365;12;12;0;4.08;4.17;4.08;4.58;3.92;4.83;3.92;1
 1,12471968685245E+018;1;1;Sants;Entire rental unit;Entire home/apt;5;1;3;4;81.00;3.7;31;30;30;2;4.83;4.87;4.83;4.9;4.93;4.83;4.73;1
-1,12665273207704E+018;0;0;el Fort Pienc;Entire rental unit;Entire home/apt;8;2;4;8;2.104.00;2.8;114.7;22;22;2;4.68;4.73;4.86;4.55;4.77;4.73;4.59;0
+1,12665273207704E+018;0;0;el Fort Pienc;Entire rental unit;Entire home/apt;8;2;4;8;2104.00;2.8;114.7;22;22;2;4.68;4.73;4.86;4.55;4.77;4.73;4.59;0
 1,12666163768807E+018;0;0;el Parc i la Llacuna del Poblenou;Shared room in bed and breakfast;Shared room;1;1;1;4;14.00;1;15;31;31;1;3.81;3.87;4.1;3.81;3.74;4.42;3.87;1
 1,12668118468692E+018;0;0;el Parc i la Llacuna del Poblenou;Private room in bed and breakfast;Private room;2;1;1;1;48.00;1;15;6;6;2;4;3.83;3.83;4.5;4;4.67;4.17;1
 1,12671893173026E+018;0;0;Sant Pere, Santa Caterina i la Ribera;Entire rental unit;Entire home/apt;5;2;3;5;190.00;3;365;1;1;0;4;5;5;5;3;4;3;0
@@ -10775,7 +10775,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 1,17541713997506E+018;0;1;el Besòs i el Maresme;Private room in rental unit;Private room;2;1;1;1;100.00;1;365;1;1;0;5;5;5;5;5;5;5;1
 1,17549208134898E+018;1;1;la Sagrada Família;Private room in rental unit;Private room;2;1;1;1;60.00;1;365;6;6;6;5;5;5;5;5;5;4.67;1
 1,17233439215759E+018;1;0;Sant Pere, Santa Caterina i la Ribera;Private room in rental unit;Private room;1;1;0;1;40.00;3;7;19;19;5;4.95;4.89;4.89;4.95;5;5;4.95;0
-1,17241328720715E+018;0;0;el Poble Sec;Entire rental unit;Entire home/apt;2;1;3;3;9.999.00;3.6;89.6;8;8;2;4.5;4.75;4.88;4.25;4.38;4.38;4.25;0
+1,17241328720715E+018;0;0;el Poble Sec;Entire rental unit;Entire home/apt;2;1;3;3;9999.00;3.6;89.6;8;8;2;4.5;4.75;4.88;4.25;4.38;4.38;4.25;0
 1,17253279670418E+018;0;1;el Barri Gòtic;Private room in rental unit;Private room;1;1;1;1;48.00;1;365;1;1;0;3;3;4;2;4;2;1;0
 1,1725628682153E+018;1;1;Sant Pere, Santa Caterina i la Ribera;Entire rental unit;Entire home/apt;2;1;1;1;65.00;30;360;2;2;1;4;4;4;5;5;5;3.5;1
 1,17263886957645E+018;0;1;la Font de la Guatlla;Private room in rental unit;Private room;1;1;1;1;28.00;1.1;365;34;34;3;4.38;4.62;4.82;4.82;4.79;4.68;4.32;0
@@ -11275,7 +11275,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 1,23398095632231E+018;0;1;el Fort Pienc;Entire rental unit;Entire home/apt;8;2;3;6;130.00;1.4;999;1;1;0;1;4;1;4;4;4;1;1
 1,23406604288031E+018;1;1;la Dreta de l'Eixample;Private room in rental unit;Private room;2;2.5;1;0;40.00;2;15;11;11;3;4.45;4.55;4.82;4.91;4.73;4.91;4.45;1
 1,23415013795151E+018;0;1;el Poble Sec;Private room in rental unit;Private room;2;1;1;1;41.00;2.8;15;13;13;1;4.46;4.62;4.38;5;4.85;4.62;4.46;1
-1,23171111820101E+018;0;0;les Corts;Entire rental unit;Entire home/apt;2;1;2;2;9.999.00;3;31.5;2;2;0;5;5;5;4;4;5;5;0
+1,23171111820101E+018;0;0;les Corts;Entire rental unit;Entire home/apt;2;1;2;2;9999.00;3;31.5;2;2;0;5;5;5;4;4;5;5;0
 1,23172889671719E+018;0;1;el Raval;Entire rental unit;Entire home/apt;2;0;0;1;58.00;1;365;4;4;4;4.5;4.5;4.5;5;5;4;4;1
 1,23177635814723E+018;0;1;el Camp de l'Arpa del Clot;Private room in rental unit;Private room;4;0.5;1;4;40.00;1;1125;8;8;0;4.5;4.38;4.63;4.63;4.75;4.75;4.63;1
 1,23182458652186E+018;0;1;el Barri Gòtic;Private room in rental unit;Private room;2;1;1;1;34.00;2.8;15;6;6;2;3.5;3.17;3.33;3.17;4.33;4.33;3.33;1
@@ -11344,7 +11344,7 @@ id;host_is_superhost;host_identity_verified;neighbourhood_cleansed;property_type
 1,24509429752528E+018;0;1;la Bordeta;Private room in rental unit;Private room;1;0.5;1;1;26.00;2;365;5;5;1;4.6;4.6;4.6;4.8;4.8;4.6;4.6;0
 1,24588778931643E+018;0;1;la Sagrera;Private room in rental unit;Private room;2;2;1;1;40.00;1;365;15;15;2;4.6;4.67;4.4;4.93;4.8;4.67;4.53;1
 1,24654967211393E+018;0;1;el Raval;Entire rental unit;Entire home/apt;4;1;1;1;69.00;2;365;2;2;2;4.5;5;4.5;5;5;5;4.5;1
-1,24254958946047E+018;1;1;el Poble Sec;Entire rental unit;Entire home/apt;2;1;1;1;3.000.00;1;365;1;1;0;5;5;5;5;5;5;5;0
+1,24254958946047E+018;1;1;el Poble Sec;Entire rental unit;Entire home/apt;2;1;1;1;3000.00;1;365;1;1;0;5;5;5;5;5;5;5;0
 1,24267214558673E+018;0;1;el Barri Gòtic;Private room in rental unit;Private room;2;2;1;1;37.00;2;45;4;4;1;4.5;4.75;4.75;5;5;5;4.5;0
 1,24267672252308E+018;0;0;el Baix Guinardó;Private room in casa particular;Private room;2;0.5;1;1;89.00;3;365;7;7;0;4;4;3.43;4.57;4.43;5;4.14;0
 1,24268045187759E+018;0;1;el Barri Gòtic;Private room in rental unit;Private room;2;1;1;1;32.00;2;30;5;5;2;4.8;5;4.6;5;5;5;4.8;0
